@@ -38,6 +38,8 @@ Repositories:
 - [Captain Cold](https://github.com/cburton-godaddy/captain-cold) Simple Open-Meteo -> Discord integration
 
 Other:
+- [Kagi.com](https://kagi.com/) Search results [widget](https://user-images.githubusercontent.com/381217/183744399-e45e2c26-c5da-4099-b0a4-d87769aa26b5.png)
+
 - Contributions welcome!
 
 Do you use Open-Meteo? Please open a pull request and add your repository or app to the list!
